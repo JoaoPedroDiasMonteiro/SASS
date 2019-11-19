@@ -1,7 +1,16 @@
-$cor: black;
-$fontsize: 14px;
+@import './variaveis';
 
-h2 {
-    color: $cor;
-    font-size: $fontsize;
+@for $i from 1 through 3 {
+    .item-#{$i} {
+        background-color: $cor-principal;
+        margin: 2px;
+    }
+}
+
+$item-numero: 1;
+@each $cor in $cores-lista{
+    .item-#{$item-numero} {
+        background-color: $cor;
+    }
+    $item-numero: $item-numero + 1
 }

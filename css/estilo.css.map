@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/estilo.scss"],"names":[],"mappings":"AAGA;EACI,OAJE;EAKF,WAJO","file":"estilo.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/estilo.scss","../sass/_variaveis.scss"],"names":[],"mappings":"AAGI;EACI,kBCJQ;EDKR;;;AAFJ;EACI,kBCJQ;EDKR;;;AAFJ;EACI,kBCJQ;EDKR;;;AAMJ;EACI,kBCVO;;;ADSX;EACI,kBCVO;;;ADSX;EACI,kBCVO","file":"estilo.css"}

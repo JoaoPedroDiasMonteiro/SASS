@@ -1,6 +1,28 @@
-h2 {
-  color: black;
-  font-size: 14px;
+.item-1 {
+  background-color: #83f383;
+  margin: 2px;
+}
+
+.item-2 {
+  background-color: #83f383;
+  margin: 2px;
+}
+
+.item-3 {
+  background-color: #83f383;
+  margin: 2px;
+}
+
+.item-1 {
+  background-color: #83f383;
+}
+
+.item-2 {
+  background-color: #e5ff00;
+}
+
+.item-3 {
+  background-color: #ffc31d;
 }
 
 /*# sourceMappingURL=estilo.css.map */
